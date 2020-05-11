@@ -6,19 +6,12 @@ public:
             return true;
         }
         bool colinear = true;
-        vector<int> a = coordinates[0], b = coordinates[1];
+        int x1 = coordinates[0][0], y1 = coordinates[0][1];
+        int x2 = coordinates[1][0], y2 = coordinates[1][1];
         for (int i = 2; i < coordinates.size(); i++) {
-            vector<int> p =coordinates[i];
-            if ((p[0]-b[0]) and (p[1]-b[1])) {
-                if (abs((p[0]-a[0])/(float)(p[0]-b[0]) - (p[1]-a[1])/(float)(p[1]-b[1])) > epsilon) {
-                    colinear = false;
-                }
-            }
-            else {
-                if (abs((p[0]-b[0])/(float)(p[0]-a[0]) - (p[1]-b[1])/(float)(p[1]-a[1])) > epsilon) {
-                    colinear = false;
-                }
-            }
+            int x = coordinates[i][0], y = coordinates[i][1];
+            if ((x - x1)*(y - y2) != (x - x2)*(y - y1))
+                colinear = false;
         }
         return colinear;
     }
