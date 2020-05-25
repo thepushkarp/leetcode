@@ -15,6 +15,10 @@
       - [Week 1](#week-1)
       - [Week 2](#week-2)
       - [Week 3](#week-3)
+    - [May Challenge](#may-challenge)
+      - [Week 1](#week-1-1)
+      - [Week 2](#week-2-1)
+      - [Week 3](#week-3-1)
 
 ---
 
@@ -26,9 +30,9 @@ Since I am completing this in May, I could not access the 7th question of each w
 
 | Day | Name                                                                                              |
 | --- | ------------------------------------------------------------------------------------------------- |
-| 1   | [Single Number](/April30DayChallenge/Week1/1:SingleNumber.cpp)                                    |
-| 2   | [Happy Number](/April30DayChallenge/Week1/2:HappyNumber.cpp)                                      |
-| 3   | [Maximum Subarray](/April30DayChallenge/Week1/3:MaximumSubarray.cpp)                              |
+| 1   | [Single Number](April30DayChallenge/Week1/1:SingleNumber.cpp)                                     |
+| 2   | [Happy Number](April30DayChallenge/Week1/2:HappyNumber.cpp)                                       |
+| 3   | [Maximum Subarray](April30DayChallenge/Week1/3:MaximumSubarray.cpp)                               |
 | 4   | [Move Zeros](April30DayChallenge/Week1/4:MoveZeros.cpp)                                           |
 | 5   | [Best Time to Buy and Sell Stick II](April30DayChallenge/Week1/5:BestTimetoBuyandSellStockII.cpp) |
 | 6   | [Group Anagrams](April30DayChallenge/Week1/6:GroupAnagrams.cpp)                                   |
@@ -57,5 +61,45 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 19  | [Search in Rotated Sorted Array](April30DayChallenge/Week3/19:SearchinRotatedSortedArray.cpp)                                          |
 | 20  | [Construct Binary Seach Tree from Preorder Traversal](April30DayChallenge/Week3/20:ConstructBinarySearchTreefromPreorderTraversal.cpp) |
 | 21  | Leftmost Column with at Least a One                                                                                                    |
+
+---
+
+### May Challenge
+
+#### Week 1
+
+| Day | Name                                                                                         |
+| --- | -------------------------------------------------------------------------------------------- |
+| 1   | [First Bad Version](MayChallenge/Week1/1:FirstBadVersion.cpp)                                |
+| 2   | [Jewels and Stones](MayChallenge/Week1/2:JewelsandStones.cpp)                                |
+| 3   | [Ransom Note](MayChallenge/Week1/3:RansomNote.cpp)                                           |
+| 4   | [Number Complement](MayChallenge/Week1/4:NumberComplement.cpp)                               |
+| 5   | [First Unique Character in a String](MayChallenge/Week1/5:FirstUniqueCharacterinaString.cpp) |
+| 6   | [Majority ELement](MayChallenge/Week1/6:MajorityElement.cpp)                                 |
+| 7   | [Cousins in Binary Tree](MayChallenge/Week1/7:CousinsinBinaryTree.cpp)                       |
+
+#### Week 2
+
+| Day | Name                                                                                      |
+| --- | ----------------------------------------------------------------------------------------- |
+| 8   | [Check If It Is a Straight Line](MayChallenge/Week2/8:CheckIfItIsaStraightLine.cpp)       |
+| 9   | [Valid Perfect Square](MayChallenge/Week2/9:ValidPerfectSquare.cpp)                       |
+| 10  | [Find the Town Judge](MayChallenge/Week2/10:FindtheTownJudge.cpp)                         |
+| 11  | [Flood Fill](MayChallenge/Week2/11:FloodFill.cpp)                                         |
+| 12  | [Single Element in a Sorted Array](MayChallenge/Week2/12:SingleElementinaSortedArray.cpp) |
+| 13  | [Remove K Digits](MayChallenge/Week2/13:RemoveKDigits.cpp)                                |
+| 14  | [Implement Trie](MayChallenge/Week2/14:ImplementTrie.cpp)                                 |
+
+#### Week 3
+
+| Day | Name                                                                                                  |
+| --- | ----------------------------------------------------------------------------------------------------- |
+| 15  | [Maximum Sum Circular Subarray](MayChallenge/Week3/15:MaximumSumCircularSubarray.cpp)                 |
+| 16  | [Odd Even Linked List](MayChallenge/Week3/16:OddEvenLinkedList.cpp)                                   |
+| 17  | [Find All Anagrams in a String](MayChallenge/Week3/17:FindAllAnagramsinaString.cpp)                   |
+| 18  | [Permutations in String](MayChallenge/Week3/18:PermutationinString.cpp)                               |
+| 19  | [Online Stock Span](MayChallenge/Week3/19:OnlineStockSpan.cpp)                                        |
+| 20  | [Kth Smallest Element in BST](MayChallenge/Week3/20:KthSmalletsElementinaBST.cpp)                     |
+| 21  | [Count Square Submatrices with All Ones](MayChallenge/Week3/21:CountSquareSubmatriceswithAllOnes.cpp) |
 
 ---
