@@ -4,7 +4,7 @@
 
 - Files contain only the solution class provided by the platform.
 
-- I make all submissions are made from [this profile](https://leetcode.com/thepushkarp/).
+- I make all submissions from [this profile](https://leetcode.com/thepushkarp/).
 
 ## Contents
 
