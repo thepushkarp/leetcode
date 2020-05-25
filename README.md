@@ -20,7 +20,7 @@
       - [Week 1](#week-1-1)
       - [Week 2](#week-2-1)
       - [Week 3](#week-3-1)
-    - [Week 4](#week-4)
+      - [Week 4](#week-4)
 
 ---
 
@@ -116,7 +116,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 20  | [Kth Smallest Element in BST](MayChallenge/Week3/20:KthSmalletsElementinaBST.cpp)                     |
 | 21  | [Count Square Submatrices with All Ones](MayChallenge/Week3/21:CountSquareSubmatriceswithAllOnes.cpp) |
 
-### Week 4
+#### Week 4
 
 | Day | Name                                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------- |
