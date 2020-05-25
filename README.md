@@ -36,7 +36,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 2   | [Happy Number](April30DayChallenge/Week1/2:HappyNumber.cpp)                                       |
 | 3   | [Maximum Subarray](April30DayChallenge/Week1/3:MaximumSubarray.cpp)                               |
 | 4   | [Move Zeros](April30DayChallenge/Week1/4:MoveZeros.cpp)                                           |
-| 5   | [Best Time to Buy and Sell Stick II](April30DayChallenge/Week1/5:BestTimetoBuyandSellStockII.cpp) |
+| 5   | [Best Time to Buy and Sell Stock II](April30DayChallenge/Week1/5:BestTimetoBuyandSellStockII.cpp) |
 | 6   | [Group Anagrams](April30DayChallenge/Week1/6:GroupAnagrams.cpp)                                   |
 | 7   | Counting Elements                                                                                 |
 
