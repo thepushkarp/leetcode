@@ -15,6 +15,7 @@
       - [Week 1](#week-1)
       - [Week 2](#week-2)
       - [Week 3](#week-3)
+      - [Week 4](#week-4)
     - [May Challenge](#may-challenge)
       - [Week 1](#week-1-1)
       - [Week 2](#week-2-1)
@@ -61,6 +62,18 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 19  | [Search in Rotated Sorted Array](April30DayChallenge/Week3/19:SearchinRotatedSortedArray.cpp)                                          |
 | 20  | [Construct Binary Seach Tree from Preorder Traversal](April30DayChallenge/Week3/20:ConstructBinarySearchTreefromPreorderTraversal.cpp) |
 | 21  | Leftmost Column with at Least a One                                                                                                    |
+
+#### Week 4
+
+| Day | Name                                                                                      |
+| --- | ----------------------------------------------------------------------------------------- |
+| 22  | [Subarray Sum Equals K](April30DayChallenge/Week4/22:SubarraySumEqualsK.cpp)              |
+| 23  | [Bitwise AND of Numbers Range](April30DayChallenge/Week4/23:BitwiseANDofNumbersRange.cpp) |
+| 24  | [LRU Cache](April30DayChallenge/Week4/24:LRUCache.cpp)                                    |
+| 25  | [Jump Game](April30DayChallenge/Week4/25:JumpGame.cpp)                                    |
+| 26  | Longest Common Subsequence                                                                |
+| 27  | Maximal Square                                                                            |
+| 28  | First Unique Number                                                                       |
 
 ---
 
