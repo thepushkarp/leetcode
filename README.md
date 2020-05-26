@@ -71,7 +71,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 23  | [Bitwise AND of Numbers Range](April30DayChallenge/Week4/23:BitwiseANDofNumbersRange.cpp) |
 | 24  | [LRU Cache](April30DayChallenge/Week4/24:LRUCache.cpp)                                    |
 | 25  | [Jump Game](April30DayChallenge/Week4/25:JumpGame.cpp)                                    |
-| 26  | Longest Common Subsequence                                                                |
+| 26  | [Longest Common Subsequence](April30DayChallenge/Week4/26:LongestCommonSubsequence.cpp)   |
 | 27  | Maximal Square                                                                            |
 | 28  | First Unique Number                                                                       |
 
