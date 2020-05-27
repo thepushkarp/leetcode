@@ -72,7 +72,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 24  | [LRU Cache](April30DayChallenge/Week4/24:LRUCache.cpp)                                    |
 | 25  | [Jump Game](April30DayChallenge/Week4/25:JumpGame.cpp)                                    |
 | 26  | [Longest Common Subsequence](April30DayChallenge/Week4/26:LongestCommonSubsequence.cpp)   |
-| 27  | Maximal Square                                                                            |
+| 27  | [Maximal Square](April30DayChallenge/Week4/27:MaximalSquare.cpp)                          |
 | 28  | First Unique Number                                                                       |
 
 ---
