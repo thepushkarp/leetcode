@@ -11,24 +11,22 @@
 - [leetcode](#leetcode)
   - [My Leetcode submissions, primarily in C++](#my-leetcode-submissions-primarily-in-c)
   - [Contents](#contents)
-    - [April 30 Day Challenge](#april-30-day-challenge)
-      - [Week 1](#week-1)
-      - [Week 2](#week-2)
-      - [Week 3](#week-3)
-      - [Week 4](#week-4)
-    - [May Challenge](#may-challenge)
-      - [Week 1](#week-1-1)
-      - [Week 2](#week-2-1)
-      - [Week 3](#week-3-1)
-      - [Week 4](#week-4)
+  - [April 30 Day Challenge](#april-30-day-challenge)
+    - [Week 1](#week-1)
+    - [Week 2](#week-2)
+    - [Week 3](#week-3)
+    - [Week 4](#week-4)
+  - [May Challenge](#may-challenge)
+    - [Week 1](#week-1-1)
+    - [Week 2](#week-2-1)
+    - [Week 3](#week-3-1)
+    - [Week 4](#week-4-1)
 
----
-
-### April 30 Day Challenge
+## April 30 Day Challenge
 
 Since I am completing this in May, I could not access the 7th question of each week because it's only for Premium subscribers.
 
-#### Week 1
+### Week 1
 
 | Day | Name                                                                                              |
 | --- | ------------------------------------------------------------------------------------------------- |
@@ -40,7 +38,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 6   | [Group Anagrams](April30DayChallenge/Week1/6:GroupAnagrams.cpp)                                   |
 | 7   | Counting Elements                                                                                 |
 
-#### Week 2
+### Week 2
 
 | Day | Name                                                                               |
 | --- | ---------------------------------------------------------------------------------- |
@@ -52,7 +50,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 13  | [Contiguous Array](April30DayChallenge/Week2/13:ContiguousArray.cpp)               |
 | 14  | Perform String Shifts                                                              |
 
-#### Week 3
+### Week 3
 
 | Day | Name                                                                                                                                   |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,7 +62,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 20  | [Construct Binary Seach Tree from Preorder Traversal](April30DayChallenge/Week3/20:ConstructBinarySearchTreefromPreorderTraversal.cpp) |
 | 21  | Leftmost Column with at Least a One                                                                                                    |
 
-#### Week 4
+### Week 4
 
 | Day | Name                                                                                      |
 | --- | ----------------------------------------------------------------------------------------- |
@@ -76,11 +74,9 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 27  | [Maximal Square](April30DayChallenge/Week4/27:MaximalSquare.cpp)                          |
 | 28  | First Unique Number                                                                       |
 
----
+## May Challenge
 
-### May Challenge
-
-#### Week 1
+### Week 1
 
 | Day | Name                                                                                         |
 | --- | -------------------------------------------------------------------------------------------- |
@@ -92,7 +88,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 6   | [Majority ELement](MayChallenge/Week1/6:MajorityElement.cpp)                                 |
 | 7   | [Cousins in Binary Tree](MayChallenge/Week1/7:CousinsinBinaryTree.cpp)                       |
 
-#### Week 2
+### Week 2
 
 | Day | Name                                                                                      |
 | --- | ----------------------------------------------------------------------------------------- |
@@ -104,7 +100,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 13  | [Remove K Digits](MayChallenge/Week2/13:RemoveKDigits.cpp)                                |
 | 14  | [Implement Trie](MayChallenge/Week2/14:ImplementTrie.cpp)                                 |
 
-#### Week 3
+### Week 3
 
 | Day | Name                                                                                                  |
 | --- | ----------------------------------------------------------------------------------------------------- |
@@ -116,7 +112,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 20  | [Kth Smallest Element in BST](MayChallenge/Week3/20:KthSmalletsElementinaBST.cpp)                     |
 | 21  | [Count Square Submatrices with All Ones](MayChallenge/Week3/21:CountSquareSubmatriceswithAllOnes.cpp) |
 
-#### Week 4
+### Week 4
 
 | Day | Name                                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -127,5 +123,3 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 26  | [Contiguous Array](MayChallenge/Week4/26:ContiguousArray.cpp)                                                                   |
 | 27  | [Possible Bipartition](MayChallenge/Week4/27:PossibleBipartition.cpp)                                                           |
 | 28  | [Counting Bits](MayChallenge/Week4/28:CountingBits.cpp)                                                                         |
-
----
