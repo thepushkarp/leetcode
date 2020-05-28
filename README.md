@@ -126,6 +126,6 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 25  | [Uncrossed Lines](MayChallenge/Week4/25:UncrossedLines.cpp)                                                                     |
 | 26  | [Contiguous Array](MayChallenge/Week4/26:ContiguousArray.cpp)                                                                   |
 | 27  | [Possible Bipartition](MayChallenge/Week4/27:PossibleBipartition.cpp)                                                           |
-| 28  |                                                                                                                                 |
+| 28  | [Counting Bits](MayChallenge/Week4/28:CountingBits.cpp)                                                                         |
 
 ---
