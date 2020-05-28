@@ -16,6 +16,7 @@
     - [Week 2](#week-2)
     - [Week 3](#week-3)
     - [Week 4](#week-4)
+    - [Week 5](#week-5)
   - [May Challenge](#may-challenge)
     - [Week 1](#week-1-1)
     - [Week 2](#week-2-1)
@@ -73,6 +74,13 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 26  | [Longest Common Subsequence](April30DayChallenge/Week4/26:LongestCommonSubsequence.cpp)   |
 | 27  | [Maximal Square](April30DayChallenge/Week4/27:MaximalSquare.cpp)                          |
 | 28  | First Unique Number                                                                       |
+
+### Week 5
+
+| Day | Name                                                                                      |
+| --- | ----------------------------------------------------------------------------------------- |
+| 29  | [Binary Tree Maximum Path Sum](April30DayChallenge/Week5/29:BinaryTreeMaximumPathSum.cpp) |
+| 30  | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree           |
 
 ## May Challenge
 
