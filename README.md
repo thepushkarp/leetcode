@@ -22,6 +22,7 @@
     - [Week 2](#week-2-1)
     - [Week 3](#week-3-1)
     - [Week 4](#week-4-1)
+    - [Week 5](#week-5-1)
 
 ## April 30 Day Challenge
 
@@ -131,3 +132,11 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 26  | [Contiguous Array](MayChallenge/Week4/26:ContiguousArray.cpp)                                                                   |
 | 27  | [Possible Bipartition](MayChallenge/Week4/27:PossibleBipartition.cpp)                                                           |
 | 28  | [Counting Bits](MayChallenge/Week4/28:CountingBits.cpp)                                                                         |
+
+### Week 5
+
+| Day | Name                                                        |
+| --- | ----------------------------------------------------------- |
+| 29  | [Course Schedule](MayChallenge/Week5/29:CourseSchedule.cpp) |
+| 30  |                                                             |
+| 31  |                                                             |
