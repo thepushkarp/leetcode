@@ -151,7 +151,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | --- | --------------------------------------------------------------------------------- |
 | 1   | [Invert Binary Tree](JuneChallenge/Week1/1:InvertBinaryTree.cpp)                  |
 | 2   | [Delete Node in a Linked List](JuneChallenge/Week1/2:DeleteNodeinaLinkedList.cpp) |
-| 3   |                                                                                   |
+| 3   | [Two City Scheduling](JuneChallenge/Week1/3:TwoCityScheduling.cpp)                |
 | 4   |                                                                                   |
 | 5   |                                                                                   |
 | 6   |                                                                                   |
