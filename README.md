@@ -2,29 +2,29 @@
 
 ## My Leetcode submissions, primarily in C++
 
-- Files contain only the solution class provided by the platform.
+-   Files contain only the solution class provided by the platform.
 
-- I make all submissions from [this profile](https://leetcode.com/thepushkarp/).
+-   I make all submissions from [this profile](https://leetcode.com/thepushkarp/).
 
 ## Contents
 
-- [leetcode](#leetcode)
-  - [My Leetcode submissions, primarily in C++](#my-leetcode-submissions-primarily-in-c)
-  - [Contents](#contents)
-  - [April 30 Day Challenge](#april-30-day-challenge)
-    - [Week 1](#week-1)
-    - [Week 2](#week-2)
-    - [Week 3](#week-3)
-    - [Week 4](#week-4)
-    - [Week 5](#week-5)
-  - [May Challenge](#may-challenge)
-    - [Week 1](#week-1-1)
-    - [Week 2](#week-2-1)
-    - [Week 3](#week-3-1)
-    - [Week 4](#week-4-1)
-    - [Week 5](#week-5-1)
-  - [June Challenge](#june-challenge)
-    - [Week 1](#week-1-2)
+-   [leetcode](#leetcode)
+    -   [My Leetcode submissions, primarily in C++](#my-leetcode-submissions-primarily-in-c)
+    -   [Contents](#contents)
+    -   [April 30 Day Challenge](#april-30-day-challenge)
+        -   [Week 1](#week-1)
+        -   [Week 2](#week-2)
+        -   [Week 3](#week-3)
+        -   [Week 4](#week-4)
+        -   [Week 5](#week-5)
+    -   [May Challenge](#may-challenge)
+        -   [Week 1](#week-1-1)
+        -   [Week 2](#week-2-1)
+        -   [Week 3](#week-3-1)
+        -   [Week 4](#week-4-1)
+        -   [Week 5](#week-5-1)
+    -   [June Challenge](#june-challenge)
+        -   [Week 1](#week-1-2)
 
 ## April 30 Day Challenge
 
@@ -152,7 +152,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 1   | [Invert Binary Tree](JuneChallenge/Week1/1:InvertBinaryTree.cpp)                  |
 | 2   | [Delete Node in a Linked List](JuneChallenge/Week1/2:DeleteNodeinaLinkedList.cpp) |
 | 3   | [Two City Scheduling](JuneChallenge/Week1/3:TwoCityScheduling.cpp)                |
-| 4   |                                                                                   |
+| 4   | [Reverse String](JuneChallenge/Week1/4:ReverseString.cpp)                         |
 | 5   |                                                                                   |
 | 6   |                                                                                   |
 | 7   |                                                                                   |
