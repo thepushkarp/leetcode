@@ -153,6 +153,6 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 2   | [Delete Node in a Linked List](JuneChallenge/Week1/2:DeleteNodeinaLinkedList.cpp) |
 | 3   | [Two City Scheduling](JuneChallenge/Week1/3:TwoCityScheduling.cpp)                |
 | 4   | [Reverse String](JuneChallenge/Week1/4:ReverseString.cpp)                         |
-| 5   |                                                                                   |
+| 5   | [Random Pick with Weight](JuneChallenge/Week1/5:RandomPickwithWeight.cpp)         |
 | 6   |                                                                                   |
 | 7   |                                                                                   |
