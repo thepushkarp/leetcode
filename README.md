@@ -147,12 +147,12 @@ Since I am completing this in May, I could not access the 7th question of each w
 
 ### Week 1
 
-| Day | Name                                                                              |
-| --- | --------------------------------------------------------------------------------- |
-| 1   | [Invert Binary Tree](JuneChallenge/Week1/1:InvertBinaryTree.cpp)                  |
-| 2   | [Delete Node in a Linked List](JuneChallenge/Week1/2:DeleteNodeinaLinkedList.cpp) |
-| 3   | [Two City Scheduling](JuneChallenge/Week1/3:TwoCityScheduling.cpp)                |
-| 4   | [Reverse String](JuneChallenge/Week1/4:ReverseString.cpp)                         |
-| 5   | [Random Pick with Weight](JuneChallenge/Week1/5:RandomPickwithWeight.cpp)         |
-| 6   |                                                                                   |
-| 7   |                                                                                   |
+| Day | Name                                                                                    |
+| --- | --------------------------------------------------------------------------------------- |
+| 1   | [Invert Binary Tree](JuneChallenge/Week1/1:InvertBinaryTree.cpp)                        |
+| 2   | [Delete Node in a Linked List](JuneChallenge/Week1/2:DeleteNodeinaLinkedList.cpp)       |
+| 3   | [Two City Scheduling](JuneChallenge/Week1/3:TwoCityScheduling.cpp)                      |
+| 4   | [Reverse String](JuneChallenge/Week1/4:ReverseString.cpp)                               |
+| 5   | [Random Pick with Weight](JuneChallenge/Week1/5:RandomPickwithWeight.cpp)               |
+| 6   | [Queue Reconstruction by Height](JuneChallenge/Week1/6:QueueReconstructionbyHeight.cpp) |
+| 7   |                                                                                         |
