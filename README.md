@@ -155,4 +155,4 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 4   | [Reverse String](JuneChallenge/Week1/4:ReverseString.cpp)                               |
 | 5   | [Random Pick with Weight](JuneChallenge/Week1/5:RandomPickwithWeight.cpp)               |
 | 6   | [Queue Reconstruction by Height](JuneChallenge/Week1/6:QueueReconstructionbyHeight.cpp) |
-| 7   |                                                                                         |
+| 7   | [Coin Change 2](JuneChallenge/Week1/7:CoinChange2.cpp)                                  |
