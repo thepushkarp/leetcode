@@ -156,3 +156,15 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 5   | [Random Pick with Weight](JuneChallenge/Week1/5:RandomPickwithWeight.cpp)               |
 | 6   | [Queue Reconstruction by Height](JuneChallenge/Week1/6:QueueReconstructionbyHeight.cpp) |
 | 7   | [Coin Change 2](JuneChallenge/Week1/7:CoinChange2.cpp)                                  |
+
+### Week 2
+
+| Day | Name                                                 |
+| --- | ---------------------------------------------------- |
+| 8   | [Power of Two](JuneChallenge/Week2/8:PowerofTwo.cpp) |
+| 9   |                                                      |
+| 10  |                                                      |
+| 11  |                                                      |
+| 12  |                                                      |
+| 13  |                                                      |
+| 14  |                                                      |
