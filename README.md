@@ -164,7 +164,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 8   | [Power of Two](JuneChallenge/Week2/8:PowerofTwo.cpp)                      |
 | 9   | [Is Subsequence](JuneChallenge/Week2/9:IsSubsequence.cpp)                 |
 | 10  | [Search Insert Position](JuneChallenge/Week2/10:SearchInsertPosition.cpp) |
-| 11  |                                                                           |
+| 11  | [Sort Colors](JuneChallenge/Week2/11:SortColors.cpp)                      |
 | 12  |                                                                           |
 | 13  |                                                                           |
 | 14  |                                                                           |
