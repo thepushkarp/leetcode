@@ -178,7 +178,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 15  | [Search in a Binary Search Tree](JuneChallenge/Week3/15:SearchinaBinarySearchTree.cpp) |
 | 16  | [Validate IP Address](JuneChallenge/Week3/16:ValiateIPAddress.cpp)                     |
 | 17  | [Surrounded Regions](JuneChallenge/Week3/17:SurroundedRegions.cpp)                     |
-| 18  |                                                                                        |
+| 18  | [H-Index II](JuneChallenge/Week3/18:H-IndexII.cpp)                                     |
 | 19  |                                                                                        |
 | 20  |                                                                                        |
 | 21  |                                                                                        |
