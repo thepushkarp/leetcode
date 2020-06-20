@@ -180,5 +180,5 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 17  | [Surrounded Regions](JuneChallenge/Week3/17:SurroundedRegions.cpp)                     |
 | 18  | [H-Index II](JuneChallenge/Week3/18:H-IndexII.cpp)                                     |
 | 19  | [Longest Duplicate Substring](JuneChallenge/Week3/19:LongestDuplicateSubstring.cpp)    |
-| 20  |                                                                                        |
+| 20  | [Permutation Sequence](JuneChallenge/Week3/20:PermutationSequence.cpp)                 |
 | 21  |                                                                                        |
