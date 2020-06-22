@@ -27,6 +27,7 @@
     - [Week 1](#week-1-2)
     - [Week 2](#week-2-2)
     - [Week 3](#week-3-2)
+    - [Week 4](#week-4-2)
 
 ## April 30 Day Challenge
 
@@ -182,3 +183,15 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 19  | [Longest Duplicate Substring](JuneChallenge/Week3/19:LongestDuplicateSubstring.cpp)    |
 | 20  | [Permutation Sequence](JuneChallenge/Week3/20:PermutationSequence.cpp)                 |
 | 21  | [Dungeon Game](JuneChallenge/Week3/21:DungeonGame.cpp)                                 |
+
+### Week 4
+
+| Day | Name                                                       |
+| --- | ---------------------------------------------------------- |
+| 22  | [Single Number](JuneChallenge/Week4/22:SingleNumberII.cpp) |
+| 23  |                                                            |
+| 24  |                                                            |
+| 25  |                                                            |
+| 26  |                                                            |
+| 27  |                                                            |
+| 28  |                                                            |
