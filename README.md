@@ -186,12 +186,12 @@ Since I am completing this in May, I could not access the 7th question of each w
 
 ### Week 4
 
-| Day | Name                                                                           |
-| --- | ------------------------------------------------------------------------------ |
-| 22  | [Single Number](JuneChallenge/Week4/22:SingleNumberII.cpp)                     |
-| 23  | [Count Complete Tree Nodes](JuneChallenge/Week4/23:CountCompleteTreeNodes.cpp) |
-| 24  |                                                                                |
-| 25  |                                                                                |
-| 26  |                                                                                |
-| 27  |                                                                                |
-| 28  |                                                                                |
+| Day | Name                                                                             |
+| --- | -------------------------------------------------------------------------------- |
+| 22  | [Single Number](JuneChallenge/Week4/22:SingleNumberII.cpp)                       |
+| 23  | [Count Complete Tree Nodes](JuneChallenge/Week4/23:CountCompleteTreeNodes.cpp)   |
+| 24  | [Unique Binary Search Trees](JuneChallenge/Week4/24:UniqueBinarySearchTrees.cpp) |
+| 25  |                                                                                  |
+| 26  |                                                                                  |
+| 27  |                                                                                  |
+| 28  |                                                                                  |
