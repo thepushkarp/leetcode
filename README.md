@@ -192,6 +192,6 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 23  | [Count Complete Tree Nodes](JuneChallenge/Week4/23:CountCompleteTreeNodes.cpp)   |
 | 24  | [Unique Binary Search Trees](JuneChallenge/Week4/24:UniqueBinarySearchTrees.cpp) |
 | 25  | [Find the Duplicate Number](JuneChallenge/Week4/25:FindtheDuplicateNumber.cpp)   |
-| 26  |                                                                                  |
+| 26  | [Sum Root to Leaf Numbers](JuneChallenge/Week4/26:SumRoottoLeafNumbers.cpp)      |
 | 27  |                                                                                  |
 | 28  |                                                                                  |
