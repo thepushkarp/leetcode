@@ -193,5 +193,5 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 24  | [Unique Binary Search Trees](JuneChallenge/Week4/24:UniqueBinarySearchTrees.cpp) |
 | 25  | [Find the Duplicate Number](JuneChallenge/Week4/25:FindtheDuplicateNumber.cpp)   |
 | 26  | [Sum Root to Leaf Numbers](JuneChallenge/Week4/26:SumRoottoLeafNumbers.cpp)      |
-| 27  |                                                                                  |
+| 27  | [Perfect Squares](JuneChallenge/Week4/27:PerfectSquares.cpp)                     |
 | 28  |                                                                                  |
