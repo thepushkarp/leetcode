@@ -6,7 +6,7 @@ public:
     RandomizedSet() {
         srand(time(NULL));
     }
-    
+
     /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
     bool insert(int val) {
         if (s.find(val) != s.end()) return false;
@@ -14,7 +14,7 @@ public:
         s[val] = v.size() - 1;
         return true;
     }
-    
+
     /** Removes a value from the set. Returns true if the set contained the specified element. */
     bool remove(int val) {
         if (s.find(val) == s.end()) return false;
@@ -24,7 +24,7 @@ public:
         s.erase(val);
         return true;
     }
-    
+
     /** Get a random element from the set. */
     int getRandom() {
         return v[rand() % v.size()];
@@ -38,4 +38,3 @@ public:
  * bool param_2 = obj->remove(val);
  * int param_3 = obj->getRandom();
  */
-

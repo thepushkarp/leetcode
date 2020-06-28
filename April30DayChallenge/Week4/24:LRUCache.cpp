@@ -6,7 +6,7 @@ public:
     LRUCache(int capacity) {
         cSize = capacity;
     }
-    
+
     int get(int key) {
         auto it  = find(order.begin(), order.end(), key);
         if (it == order.end())
@@ -16,7 +16,7 @@ public:
             return m[key];
         }
     }
-    
+
     void put(int key, int value) {
         auto it  = find(order.begin(), order.end(), key);
         if (it != order.end()){
@@ -26,7 +26,7 @@ public:
         else {
             m[key] = value;
             order.push_back(key);
-        }    
+        }
         if (order.size() > cSize) {
             m.erase(order[0]);
             order.erase(order.begin());

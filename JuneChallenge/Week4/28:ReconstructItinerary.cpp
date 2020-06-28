@@ -21,4 +21,3 @@ public:
       ans.push_back(airport);
    }
 };
-

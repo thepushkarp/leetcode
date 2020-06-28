@@ -23,4 +23,3 @@ public:
         return sumNumbersHelper(root, 0);
     }
 };
-
