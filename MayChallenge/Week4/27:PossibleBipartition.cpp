@@ -17,11 +17,11 @@ public:
                     if (graph[u][u] == 1) return false;
                     for (int v = 0; v < N; v++) {
                         if (graph[u][v] and col[v] == -1) {
-                            col[v] = 1 - col[u]; 
+                            col[v] = 1 - col[u];
                             q.push(v);
                         }
-                        else if (graph[u][v] and col[v] == col[u]) 
-                            return false; 
+                        else if (graph[u][v] and col[v] == col[u])
+                            return false;
                     }
                     q.pop();
                 }

@@ -59,4 +59,3 @@ public:
                     board[i][j] = 'X', visited[i][j] = 1;
     }
 };
-

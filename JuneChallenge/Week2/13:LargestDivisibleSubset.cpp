@@ -8,10 +8,10 @@ public:
         sort(nums.begin(), nums.end());
         dp[n-1] = 1;
         int maxmGlobl = n-1;
-        for (int i = n - 2; i >= 0; i--) { 
-            int maxm = i; 
-            for (int j = i + 1; j < n; j++) 
-                if (nums[j] % nums[i] == 0) 
+        for (int i = n - 2; i >= 0; i--) {
+            int maxm = i;
+            for (int j = i + 1; j < n; j++)
+                if (nums[j] % nums[i] == 0)
                     if (dp[j] > dp[maxm]) {
                         maxm = j;
                         last[i] = maxm;
@@ -30,4 +30,3 @@ public:
         return ans;
     }
 };
-

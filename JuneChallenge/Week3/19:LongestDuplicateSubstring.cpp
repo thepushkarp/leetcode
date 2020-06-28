@@ -16,19 +16,18 @@ public:
                 {
                     found = true;
                     longest = *it;
-                    break;   
+                    break;
                 }
             }
-            
+
             if (found)
                 beg = len + 1;
             else
                 end = len - 1;
-            
-            set.clear();      
+
+            set.clear();
         }
-            
+
         return {longest.begin(), longest.end()};
     }
 };
-
