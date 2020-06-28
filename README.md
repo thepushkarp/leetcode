@@ -194,4 +194,4 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 25  | [Find the Duplicate Number](JuneChallenge/Week4/25:FindtheDuplicateNumber.cpp)   |
 | 26  | [Sum Root to Leaf Numbers](JuneChallenge/Week4/26:SumRoottoLeafNumbers.cpp)      |
 | 27  | [Perfect Squares](JuneChallenge/Week4/27:PerfectSquares.cpp)                     |
-| 28  |                                                                                  |
+| 28  | [Reconstruct Itinerary](JuneChallenge/Week4/28:ReconstructItinerary.cpp)         |
