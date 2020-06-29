@@ -28,6 +28,7 @@
     - [Week 2](#week-2-2)
     - [Week 3](#week-3-2)
     - [Week 4](#week-4-2)
+    - [Week 5](#week-5-2)
 
 ## April 30 Day Challenge
 
@@ -195,3 +196,10 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 26  | [Sum Root to Leaf Numbers](JuneChallenge/Week4/26:SumRoottoLeafNumbers.cpp)      |
 | 27  | [Perfect Squares](JuneChallenge/Week4/27:PerfectSquares.cpp)                     |
 | 28  | [Reconstruct Itinerary](JuneChallenge/Week4/28:ReconstructItinerary.cpp)         |
+
+### Week 5
+
+| Day | Name                                                   |
+| --- | ------------------------------------------------------ |
+| 29  | [Unique Paths](JuneChallenge/Week5/29:UniquePaths.cpp) |
+| 30  |                                                        |
