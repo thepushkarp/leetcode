@@ -199,7 +199,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 
 ### Week 5
 
-| Day | Name                                                   |
-| --- | ------------------------------------------------------ |
-| 29  | [Unique Paths](JuneChallenge/Week5/29:UniquePaths.cpp) |
-| 30  |                                                        |
+| Day | Name                                                      |
+| --- | --------------------------------------------------------- |
+| 29  | [Unique Paths](JuneChallenge/Week5/29:UniquePaths.cpp)    |
+| 30  | [Word Search II](JuneChallenge/Week5/30:WordSearchII.cpp) |
