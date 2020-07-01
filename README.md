@@ -29,6 +29,8 @@
     - [Week 3](#week-3-2)
     - [Week 4](#week-4-2)
     - [Week 5](#week-5-2)
+  - [July Challenge](#july-challenge)
+    - [Week 1](#week-1-3)
 
 ## April 30 Day Challenge
 
@@ -203,3 +205,17 @@ Since I am completing this in May, I could not access the 7th question of each w
 | --- | --------------------------------------------------------- |
 | 29  | [Unique Paths](JuneChallenge/Week5/29:UniquePaths.cpp)    |
 | 30  | [Word Search II](JuneChallenge/Week5/30:WordSearchII.cpp) |
+
+## July Challenge
+
+### Week 1
+
+| Day | Name                                                        |
+| --- | ----------------------------------------------------------- |
+| 1   | [Arranging Coins](JulyChallenge/Week1/1:ArrangingCoins.cpp) |
+| 2   |                                                             |
+| 3   |                                                             |
+| 4   |                                                             |
+| 5   |                                                             |
+| 6   |                                                             |
+| 7   |                                                             |
