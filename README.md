@@ -210,12 +210,12 @@ Since I am completing this in May, I could not access the 7th question of each w
 
 ### Week 1
 
-| Day | Name                                                        |
-| --- | ----------------------------------------------------------- |
-| 1   | [Arranging Coins](JulyChallenge/Week1/1:ArrangingCoins.cpp) |
-| 2   |                                                             |
-| 3   |                                                             |
-| 4   |                                                             |
-| 5   |                                                             |
-| 6   |                                                             |
-| 7   |                                                             |
+| Day | Name                                                                                              |
+| --- | ------------------------------------------------------------------------------------------------- |
+| 1   | [Arranging Coins](JulyChallenge/Week1/1:ArrangingCoins.cpp)                                       |
+| 2   | [Binary Tree Level Order Traversal II](JulyChallenge/Week1/2:BinaryTreeLevelOrderTraversalII.cpp) |
+| 3   |                                                                                                   |
+| 4   |                                                                                                   |
+| 5   |                                                                                                   |
+| 6   |                                                                                                   |
+| 7   |                                                                                                   |
