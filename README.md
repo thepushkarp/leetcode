@@ -214,7 +214,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | --- | ------------------------------------------------------------------------------------------------- |
 | 1   | [Arranging Coins](JulyChallenge/Week1/1:ArrangingCoins.cpp)                                       |
 | 2   | [Binary Tree Level Order Traversal II](JulyChallenge/Week1/2:BinaryTreeLevelOrderTraversalII.cpp) |
-| 3   |                                                                                                   |
+| 3   | [Prison Cells After N Days](3:JulyChallenge/Week1/3:PrisonCellsAfterNDays.cpp)                    |
 | 4   |                                                                                                   |
 | 5   |                                                                                                   |
 | 6   |                                                                                                   |
