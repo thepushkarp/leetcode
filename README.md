@@ -216,6 +216,6 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 2   | [Binary Tree Level Order Traversal II](JulyChallenge/Week1/2:BinaryTreeLevelOrderTraversalII.cpp) |
 | 3   | [Prison Cells After N Days](3:JulyChallenge/Week1/3:PrisonCellsAfterNDays.cpp)                    |
 | 4   | [Ugly Number II](JulyChallenge/Week1/4:UglyNumberII.cpp)                                          |
-| 5   |                                                                                                   |
+| 5   | [Hamming Distance](JulyChallenge/Week1/5:HammingDistance.cpp)                                     |
 | 6   |                                                                                                   |
 | 7   |                                                                                                   |
