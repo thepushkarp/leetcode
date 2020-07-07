@@ -218,4 +218,4 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 4   | [Ugly Number II](JulyChallenge/Week1/4:UglyNumberII.cpp)                                          |
 | 5   | [Hamming Distance](JulyChallenge/Week1/5:HammingDistance.cpp)                                     |
 | 6   | [Plus One](JulyChallenge/Week1/6:PlusOne.cpp)                                                     |
-| 7   |                                                                                                   |
+| 7   | [Island Perimeter](JulyChallenge/Week1/7:IslandPerimeter.cpp)                                     |
