@@ -31,6 +31,7 @@
     - [Week 5](#week-5-2)
   - [July Challenge](#july-challenge)
     - [Week 1](#week-1-3)
+    - [Week 2](#week-2-3)
 
 ## April 30 Day Challenge
 
@@ -219,3 +220,15 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 5   | [Hamming Distance](JulyChallenge/Week1/5:HammingDistance.cpp)                                     |
 | 6   | [Plus One](JulyChallenge/Week1/6:PlusOne.cpp)                                                     |
 | 7   | [Island Perimeter](JulyChallenge/Week1/7:IslandPerimeter.cpp)                                     |
+
+### Week 2
+
+| Day | Name                                   |
+| --- | -------------------------------------- |
+| 8   | [3Sum](JulyChallenge/Week2/8:3Sum.cpp) |
+| 9   |                                        |
+| 10  |                                        |
+| 11  |                                        |
+| 12  |                                        |
+| 13  |                                        |
+| 14  |                                        |
