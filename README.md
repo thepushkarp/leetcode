@@ -33,7 +33,7 @@
     - [Week 1](#week-1-3)
     - [Week 2](#week-2-3)
 
-## April 30 Day Challenge
+## [April 30 Day Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
 
 Since I am completing this in May, I could not access the 7th question of each week because it's only for Premium subscribers.
 
@@ -92,7 +92,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 29  | [Binary Tree Maximum Path Sum](April30DayChallenge/Week5/29:BinaryTreeMaximumPathSum.cpp) |
 | 30  | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree           |
 
-## May Challenge
+## [May Challenge](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/)
 
 ### Week 1
 
@@ -150,7 +150,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 30  | [K Closest Points to Origin](MayChallenge/Week5/30:KClosestPointstoOrigin.cpp) |
 | 31  | [Edit Distance](MayChallenge/Week5/31:EditDistance.cpp)                        |
 
-## June Challenge
+## [June Challenge](https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/)
 
 ### Week 1
 
@@ -207,7 +207,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 29  | [Unique Paths](JuneChallenge/Week5/29:UniquePaths.cpp)    |
 | 30  | [Word Search II](JuneChallenge/Week5/30:WordSearchII.cpp) |
 
-## July Challenge
+## [July Challenge](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/)
 
 ### Week 1
 
@@ -223,12 +223,12 @@ Since I am completing this in May, I could not access the 7th question of each w
 
 ### Week 2
 
-| Day | Name                                   |
-| --- | -------------------------------------- |
-| 8   | [3Sum](JulyChallenge/Week2/8:3Sum.cpp) |
-| 9   |                                        |
-| 10  |                                        |
-| 11  |                                        |
-| 12  |                                        |
-| 13  |                                        |
-| 14  |                                        |
+| Day | Name                                                                               |
+| --- | ---------------------------------------------------------------------------------- |
+| 8   | [3Sum](JulyChallenge/Week2/8:3Sum.cpp)                                             |
+| 9   | [Maximum Width of Binary Tree](JulyChallenge/Week2/9:MaximumWidthofBinaryTree.cpp) |
+| 10  |                                                                                    |
+| 11  |                                                                                    |
+| 12  |                                                                                    |
+| 13  |                                                                                    |
+| 14  |                                                                                    |
