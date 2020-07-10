@@ -223,12 +223,12 @@ Since I am completing this in May, I could not access the 7th question of each w
 
 ### Week 2
 
-| Day | Name                                                                               |
-| --- | ---------------------------------------------------------------------------------- |
-| 8   | [3Sum](JulyChallenge/Week2/8:3Sum.cpp)                                             |
-| 9   | [Maximum Width of Binary Tree](JulyChallenge/Week2/9:MaximumWidthofBinaryTree.cpp) |
-| 10  |                                                                                    |
-| 11  |                                                                                    |
-| 12  |                                                                                    |
-| 13  |                                                                                    |
-| 14  |                                                                                    |
+| Day | Name                                                                                                     |
+| --- | -------------------------------------------------------------------------------------------------------- |
+| 8   | [3Sum](JulyChallenge/Week2/8:3Sum.cpp)                                                                   |
+| 9   | [Maximum Width of Binary Tree](JulyChallenge/Week2/9:MaximumWidthofBinaryTree.cpp)                       |
+| 10  | [Flatten a Multilevel Doubly Linked List](JulyChallenge/Week2/10:FlattenaMultilevelDoublyLinkedList.cpp) |
+| 11  |                                                                                                          |
+| 12  |                                                                                                          |
+| 13  |                                                                                                          |
+| 14  |                                                                                                          |
