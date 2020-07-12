@@ -2,36 +2,36 @@
 
 ## My Leetcode submissions, primarily in C++
 
-- Files contain only the solution class provided by the platform.
+-   Files contain only the solution class provided by the platform.
 
-- I make all submissions from [this profile](https://leetcode.com/thepushkarp/).
+-   I make all submissions from [this profile](https://leetcode.com/thepushkarp/).
 
 ## Contents
 
-- [leetcode](#leetcode)
-  - [My Leetcode submissions, primarily in C++](#my-leetcode-submissions-primarily-in-c)
-  - [Contents](#contents)
-  - [April 30 Day Challenge](#april-30-day-challenge)
-    - [Week 1](#week-1)
-    - [Week 2](#week-2)
-    - [Week 3](#week-3)
-    - [Week 4](#week-4)
-    - [Week 5](#week-5)
-  - [May Challenge](#may-challenge)
-    - [Week 1](#week-1-1)
-    - [Week 2](#week-2-1)
-    - [Week 3](#week-3-1)
-    - [Week 4](#week-4-1)
-    - [Week 5](#week-5-1)
-  - [June Challenge](#june-challenge)
-    - [Week 1](#week-1-2)
-    - [Week 2](#week-2-2)
-    - [Week 3](#week-3-2)
-    - [Week 4](#week-4-2)
-    - [Week 5](#week-5-2)
-  - [July Challenge](#july-challenge)
-    - [Week 1](#week-1-3)
-    - [Week 2](#week-2-3)
+-   [leetcode](#leetcode)
+    -   [My Leetcode submissions, primarily in C++](#my-leetcode-submissions-primarily-in-c)
+    -   [Contents](#contents)
+    -   [April 30 Day Challenge](#april-30-day-challenge)
+        -   [Week 1](#week-1)
+        -   [Week 2](#week-2)
+        -   [Week 3](#week-3)
+        -   [Week 4](#week-4)
+        -   [Week 5](#week-5)
+    -   [May Challenge](#may-challenge)
+        -   [Week 1](#week-1-1)
+        -   [Week 2](#week-2-1)
+        -   [Week 3](#week-3-1)
+        -   [Week 4](#week-4-1)
+        -   [Week 5](#week-5-1)
+    -   [June Challenge](#june-challenge)
+        -   [Week 1](#week-1-2)
+        -   [Week 2](#week-2-2)
+        -   [Week 3](#week-3-2)
+        -   [Week 4](#week-4-2)
+        -   [Week 5](#week-5-2)
+    -   [July Challenge](#july-challenge)
+        -   [Week 1](#week-1-3)
+        -   [Week 2](#week-2-3)
 
 ## [April 30 Day Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
 
@@ -229,6 +229,5 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 9   | [Maximum Width of Binary Tree](JulyChallenge/Week2/9:MaximumWidthofBinaryTree.cpp)                       |
 | 10  | [Flatten a Multilevel Doubly Linked List](JulyChallenge/Week2/10:FlattenaMultilevelDoublyLinkedList.cpp) |
 | 11  | [Subsets](JulyChallenge/Week2/11:Subsets.cpp)                                                            |
-| 12  |                                                                                                          |
-| 13  |                                                                                                          |
+| 12  | [Reverse Bits](JulyChallenge/Week2/12:ReverseBits.cpp)                                                   |
 | 14  |                                                                                                          |
