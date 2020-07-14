@@ -231,4 +231,4 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 11  | [Subsets](JulyChallenge/Week2/11:Subsets.cpp)                                                            |
 | 12  | [Reverse Bits](JulyChallenge/Week2/12:ReverseBits.cpp)                                                   |
 | 13  | [Same Tree](JulyChallenge/Week2/13:SameTree.cpp)                                                         |
-| 14  |                                                                                                          |
+| 14  | [Angle Between Hands of a Clock](JulyChallenge/Week2/14:AngleBetweenHandsofaClock.cpp)                   |
