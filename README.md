@@ -32,6 +32,7 @@
   - [July Challenge](#july-challenge)
     - [Week 1](#week-1-3)
     - [Week 2](#week-2-3)
+    - [Week 3](#week-3-3)
 
 ## [April 30 Day Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
 
@@ -232,3 +233,15 @@ Since I am completing this in May, I could not access the 7th question of each w
 | 12  | [Reverse Bits](JulyChallenge/Week2/12:ReverseBits.cpp)                                                   |
 | 13  | [Same Tree](JulyChallenge/Week2/13:SameTree.cpp)                                                         |
 | 14  | [Angle Between Hands of a Clock](JulyChallenge/Week2/14:AngleBetweenHandsofaClock.cpp)                   |
+
+### Week 3
+
+| Day | Name                                                                          |
+| --- | ----------------------------------------------------------------------------- |
+| 15  | [Reverse Words in a String](JulyChallenge/Week3/15:ReverseWordsinaString.cpp) |
+| 16  |                                                                               |
+| 17  |                                                                               |
+| 18  |                                                                               |
+| 19  |                                                                               |
+| 20  |                                                                               |
+| 21  |                                                                               |
