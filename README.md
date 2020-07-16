@@ -239,7 +239,7 @@ Since I am completing this in May, I could not access the 7th question of each w
 | Day | Name                                                                          |
 | --- | ----------------------------------------------------------------------------- |
 | 15  | [Reverse Words in a String](JulyChallenge/Week3/15:ReverseWordsinaString.cpp) |
-| 16  |                                                                               |
+| 16  | [Pow(x, n)](<JulyChallenge/Week3/16:Pow(x,n).cpp>)                            |
 | 17  |                                                                               |
 | 18  |                                                                               |
 | 19  |                                                                               |
